@@ -1,0 +1,10 @@
+Metric Data,DCA 50,DCA 51,Notes
+Avg Outside Air Temp (F),50,45,
+PUE,1.2,1.3,
+Power(kwh),75,80,
+Water Usage(US gal),80,75,
+Generator Run Time (hrs),,,
+Gen 1,5.4,5.5,
+Gen 2,4.8,5.9,
+Gen 3,n/a,n/a,Not installed.
+Catcher Gen,5.1,5.2,
